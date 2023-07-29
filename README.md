@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # text-to-speech
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -33,3 +34,6 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# vue-text-to-speech
+>>>>>>> 8f90dae65151916ba7cc1dc1db982e25cf4d286f
